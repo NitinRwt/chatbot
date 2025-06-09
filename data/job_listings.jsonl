@@ -1,0 +1,2 @@
+{"id": "job_001", "title": "Senior React Developer", "company": "TechCorp", "type": "Remote", "skills": ["React", "TypeScript", "Node.js"], "description": "Build scalable web applications using React and TypeScript", "salary": "$80k-$120k", "location": "Remote"}
+{"id": "job_002", "title": "Python Data Engineer", "company": "DataFlow Inc", "type": "Hybrid", "skills": ["Python", "Apache Spark", "AWS"], "description": "Design and maintain data pipelines for machine learning models", "salary": "$90k-$130k", "location": "Seattle, WA"}

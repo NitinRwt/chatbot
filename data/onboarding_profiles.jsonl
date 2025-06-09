@@ -1,0 +1,2 @@
+{"id": "prof_001", "name": "Alice Johnson", "role": "Full Stack Developer", "skills": ["React", "Node.js", "Python", "PostgreSQL"], "experience": "5 years", "location": "San Francisco, CA"}
+{"id": "prof_002", "name": "Bob Smith", "role": "Data Scientist", "skills": ["Python", "Machine Learning", "TensorFlow", "SQL"], "experience": "3 years", "location": "New York, NY"}
